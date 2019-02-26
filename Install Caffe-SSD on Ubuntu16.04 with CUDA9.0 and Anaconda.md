@@ -52,6 +52,7 @@ for req in $(cat requirements.txt); do pip install $req --upgrade; done
 
 # cuDNN acceleration switch (uncomment to build with cuDNN).
 <font color=red>内容</font> 
+<table><tr><td bgcolor=orange>背景色是：orange</td></tr></table>
 USE_CUDNN := 1
 
 # CPU-only switch (uncomment to build without GPU support).
