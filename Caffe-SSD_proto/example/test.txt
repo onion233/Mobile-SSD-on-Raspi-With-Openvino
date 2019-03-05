@@ -1,0 +1,7 @@
+icra/JPEGImages/7.jpg icra/Annotations/7.xml
+icra/JPEGImages/21.jpg icra/Annotations/21.xml
+icra/JPEGImages/23.jpg icra/Annotations/23.xml
+icra/JPEGImages/31.jpg icra/Annotations/31.xml
+icra/JPEGImages/33.jpg icra/Annotations/33.xml
+icra/JPEGImages/42.jpg icra/Annotations/42.xml
+icra/JPEGImages/55.jpg icra/Annotations/55.xml
