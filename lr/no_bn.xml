@@ -6,8 +6,8 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>3</dim>
-					<dim>300</dim>
-					<dim>300</dim>
+					<dim>240</dim>
+					<dim>320</dim>
 				</port>
 			</output>
 		</layer>
@@ -17,16 +17,16 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>3</dim>
-					<dim>300</dim>
-					<dim>300</dim>
+					<dim>240</dim>
+					<dim>320</dim>
 				</port>
 			</input>
 			<output>
 				<port id="3">
 					<dim>1</dim>
 					<dim>32</dim>
-					<dim>150</dim>
-					<dim>150</dim>
+					<dim>120</dim>
+					<dim>160</dim>
 				</port>
 			</output>
 			<blobs>
@@ -40,16 +40,16 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>32</dim>
-					<dim>150</dim>
-					<dim>150</dim>
+					<dim>120</dim>
+					<dim>160</dim>
 				</port>
 			</input>
 			<output>
 				<port id="1">
 					<dim>1</dim>
 					<dim>32</dim>
-					<dim>150</dim>
-					<dim>150</dim>
+					<dim>120</dim>
+					<dim>160</dim>
 				</port>
 			</output>
 		</layer>
@@ -59,16 +59,16 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>32</dim>
-					<dim>150</dim>
-					<dim>150</dim>
+					<dim>120</dim>
+					<dim>160</dim>
 				</port>
 			</input>
 			<output>
 				<port id="3">
 					<dim>1</dim>
 					<dim>32</dim>
-					<dim>150</dim>
-					<dim>150</dim>
+					<dim>120</dim>
+					<dim>160</dim>
 				</port>
 			</output>
 			<blobs>
@@ -82,16 +82,16 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>32</dim>
-					<dim>150</dim>
-					<dim>150</dim>
+					<dim>120</dim>
+					<dim>160</dim>
 				</port>
 			</input>
 			<output>
 				<port id="1">
 					<dim>1</dim>
 					<dim>32</dim>
-					<dim>150</dim>
-					<dim>150</dim>
+					<dim>120</dim>
+					<dim>160</dim>
 				</port>
 			</output>
 		</layer>
@@ -101,16 +101,16 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>32</dim>
-					<dim>150</dim>
-					<dim>150</dim>
+					<dim>120</dim>
+					<dim>160</dim>
 				</port>
 			</input>
 			<output>
 				<port id="3">
 					<dim>1</dim>
 					<dim>64</dim>
-					<dim>150</dim>
-					<dim>150</dim>
+					<dim>120</dim>
+					<dim>160</dim>
 				</port>
 			</output>
 			<blobs>
@@ -124,16 +124,16 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>64</dim>
-					<dim>150</dim>
-					<dim>150</dim>
+					<dim>120</dim>
+					<dim>160</dim>
 				</port>
 			</input>
 			<output>
 				<port id="1">
 					<dim>1</dim>
 					<dim>64</dim>
-					<dim>150</dim>
-					<dim>150</dim>
+					<dim>120</dim>
+					<dim>160</dim>
 				</port>
 			</output>
 		</layer>
@@ -143,16 +143,16 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>64</dim>
-					<dim>150</dim>
-					<dim>150</dim>
+					<dim>120</dim>
+					<dim>160</dim>
 				</port>
 			</input>
 			<output>
 				<port id="3">
 					<dim>1</dim>
 					<dim>64</dim>
-					<dim>75</dim>
-					<dim>75</dim>
+					<dim>60</dim>
+					<dim>80</dim>
 				</port>
 			</output>
 			<blobs>
@@ -166,16 +166,16 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>64</dim>
-					<dim>75</dim>
-					<dim>75</dim>
+					<dim>60</dim>
+					<dim>80</dim>
 				</port>
 			</input>
 			<output>
 				<port id="1">
 					<dim>1</dim>
 					<dim>64</dim>
-					<dim>75</dim>
-					<dim>75</dim>
+					<dim>60</dim>
+					<dim>80</dim>
 				</port>
 			</output>
 		</layer>
@@ -185,16 +185,16 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>64</dim>
-					<dim>75</dim>
-					<dim>75</dim>
+					<dim>60</dim>
+					<dim>80</dim>
 				</port>
 			</input>
 			<output>
 				<port id="3">
 					<dim>1</dim>
 					<dim>128</dim>
-					<dim>75</dim>
-					<dim>75</dim>
+					<dim>60</dim>
+					<dim>80</dim>
 				</port>
 			</output>
 			<blobs>
@@ -208,16 +208,16 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>128</dim>
-					<dim>75</dim>
-					<dim>75</dim>
+					<dim>60</dim>
+					<dim>80</dim>
 				</port>
 			</input>
 			<output>
 				<port id="1">
 					<dim>1</dim>
 					<dim>128</dim>
-					<dim>75</dim>
-					<dim>75</dim>
+					<dim>60</dim>
+					<dim>80</dim>
 				</port>
 			</output>
 		</layer>
@@ -227,16 +227,16 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>128</dim>
-					<dim>75</dim>
-					<dim>75</dim>
+					<dim>60</dim>
+					<dim>80</dim>
 				</port>
 			</input>
 			<output>
 				<port id="3">
 					<dim>1</dim>
 					<dim>128</dim>
-					<dim>75</dim>
-					<dim>75</dim>
+					<dim>60</dim>
+					<dim>80</dim>
 				</port>
 			</output>
 			<blobs>
@@ -250,16 +250,16 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>128</dim>
-					<dim>75</dim>
-					<dim>75</dim>
+					<dim>60</dim>
+					<dim>80</dim>
 				</port>
 			</input>
 			<output>
 				<port id="1">
 					<dim>1</dim>
 					<dim>128</dim>
-					<dim>75</dim>
-					<dim>75</dim>
+					<dim>60</dim>
+					<dim>80</dim>
 				</port>
 			</output>
 		</layer>
@@ -269,16 +269,16 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>128</dim>
-					<dim>75</dim>
-					<dim>75</dim>
+					<dim>60</dim>
+					<dim>80</dim>
 				</port>
 			</input>
 			<output>
 				<port id="3">
 					<dim>1</dim>
 					<dim>128</dim>
-					<dim>75</dim>
-					<dim>75</dim>
+					<dim>60</dim>
+					<dim>80</dim>
 				</port>
 			</output>
 			<blobs>
@@ -292,16 +292,16 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>128</dim>
-					<dim>75</dim>
-					<dim>75</dim>
+					<dim>60</dim>
+					<dim>80</dim>
 				</port>
 			</input>
 			<output>
 				<port id="1">
 					<dim>1</dim>
 					<dim>128</dim>
-					<dim>75</dim>
-					<dim>75</dim>
+					<dim>60</dim>
+					<dim>80</dim>
 				</port>
 			</output>
 		</layer>
@@ -311,16 +311,16 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>128</dim>
-					<dim>75</dim>
-					<dim>75</dim>
+					<dim>60</dim>
+					<dim>80</dim>
 				</port>
 			</input>
 			<output>
 				<port id="3">
 					<dim>1</dim>
 					<dim>128</dim>
-					<dim>38</dim>
-					<dim>38</dim>
+					<dim>30</dim>
+					<dim>40</dim>
 				</port>
 			</output>
 			<blobs>
@@ -334,16 +334,16 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>128</dim>
-					<dim>38</dim>
-					<dim>38</dim>
+					<dim>30</dim>
+					<dim>40</dim>
 				</port>
 			</input>
 			<output>
 				<port id="1">
 					<dim>1</dim>
 					<dim>128</dim>
-					<dim>38</dim>
-					<dim>38</dim>
+					<dim>30</dim>
+					<dim>40</dim>
 				</port>
 			</output>
 		</layer>
@@ -353,16 +353,16 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>128</dim>
-					<dim>38</dim>
-					<dim>38</dim>
+					<dim>30</dim>
+					<dim>40</dim>
 				</port>
 			</input>
 			<output>
 				<port id="3">
 					<dim>1</dim>
 					<dim>256</dim>
-					<dim>38</dim>
-					<dim>38</dim>
+					<dim>30</dim>
+					<dim>40</dim>
 				</port>
 			</output>
 			<blobs>
@@ -376,16 +376,16 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>256</dim>
-					<dim>38</dim>
-					<dim>38</dim>
+					<dim>30</dim>
+					<dim>40</dim>
 				</port>
 			</input>
 			<output>
 				<port id="1">
 					<dim>1</dim>
 					<dim>256</dim>
-					<dim>38</dim>
-					<dim>38</dim>
+					<dim>30</dim>
+					<dim>40</dim>
 				</port>
 			</output>
 		</layer>
@@ -395,16 +395,16 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>256</dim>
-					<dim>38</dim>
-					<dim>38</dim>
+					<dim>30</dim>
+					<dim>40</dim>
 				</port>
 			</input>
 			<output>
 				<port id="3">
 					<dim>1</dim>
 					<dim>256</dim>
-					<dim>38</dim>
-					<dim>38</dim>
+					<dim>30</dim>
+					<dim>40</dim>
 				</port>
 			</output>
 			<blobs>
@@ -418,16 +418,16 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>256</dim>
-					<dim>38</dim>
-					<dim>38</dim>
+					<dim>30</dim>
+					<dim>40</dim>
 				</port>
 			</input>
 			<output>
 				<port id="1">
 					<dim>1</dim>
 					<dim>256</dim>
-					<dim>38</dim>
-					<dim>38</dim>
+					<dim>30</dim>
+					<dim>40</dim>
 				</port>
 			</output>
 		</layer>
@@ -437,16 +437,16 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>256</dim>
-					<dim>38</dim>
-					<dim>38</dim>
+					<dim>30</dim>
+					<dim>40</dim>
 				</port>
 			</input>
 			<output>
 				<port id="3">
 					<dim>1</dim>
 					<dim>256</dim>
-					<dim>38</dim>
-					<dim>38</dim>
+					<dim>30</dim>
+					<dim>40</dim>
 				</port>
 			</output>
 			<blobs>
@@ -460,16 +460,16 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>256</dim>
-					<dim>38</dim>
-					<dim>38</dim>
+					<dim>30</dim>
+					<dim>40</dim>
 				</port>
 			</input>
 			<output>
 				<port id="1">
 					<dim>1</dim>
 					<dim>256</dim>
-					<dim>38</dim>
-					<dim>38</dim>
+					<dim>30</dim>
+					<dim>40</dim>
 				</port>
 			</output>
 		</layer>
@@ -479,16 +479,16 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>256</dim>
-					<dim>38</dim>
-					<dim>38</dim>
+					<dim>30</dim>
+					<dim>40</dim>
 				</port>
 			</input>
 			<output>
 				<port id="3">
 					<dim>1</dim>
 					<dim>256</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</output>
 			<blobs>
@@ -502,16 +502,16 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>256</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</input>
 			<output>
 				<port id="1">
 					<dim>1</dim>
 					<dim>256</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</output>
 		</layer>
@@ -521,16 +521,16 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>256</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</input>
 			<output>
 				<port id="3">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</output>
 			<blobs>
@@ -544,16 +544,16 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</input>
 			<output>
 				<port id="1">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</output>
 		</layer>
@@ -563,16 +563,16 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</input>
 			<output>
 				<port id="3">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</output>
 			<blobs>
@@ -586,16 +586,16 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</input>
 			<output>
 				<port id="1">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</output>
 		</layer>
@@ -605,16 +605,16 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</input>
 			<output>
 				<port id="3">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</output>
 			<blobs>
@@ -628,16 +628,16 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</input>
 			<output>
 				<port id="1">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</output>
 		</layer>
@@ -647,16 +647,16 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</input>
 			<output>
 				<port id="3">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</output>
 			<blobs>
@@ -670,16 +670,16 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</input>
 			<output>
 				<port id="1">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</output>
 		</layer>
@@ -689,16 +689,16 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</input>
 			<output>
 				<port id="3">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</output>
 			<blobs>
@@ -712,16 +712,16 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</input>
 			<output>
 				<port id="1">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</output>
 		</layer>
@@ -731,16 +731,16 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</input>
 			<output>
 				<port id="3">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</output>
 			<blobs>
@@ -754,16 +754,16 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</input>
 			<output>
 				<port id="1">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</output>
 		</layer>
@@ -773,16 +773,16 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</input>
 			<output>
 				<port id="3">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</output>
 			<blobs>
@@ -796,16 +796,16 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</input>
 			<output>
 				<port id="1">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</output>
 		</layer>
@@ -815,16 +815,16 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</input>
 			<output>
 				<port id="3">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</output>
 			<blobs>
@@ -838,16 +838,16 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</input>
 			<output>
 				<port id="1">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</output>
 		</layer>
@@ -857,16 +857,16 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</input>
 			<output>
 				<port id="3">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</output>
 			<blobs>
@@ -880,16 +880,16 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</input>
 			<output>
 				<port id="1">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</output>
 		</layer>
@@ -899,16 +899,16 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</input>
 			<output>
 				<port id="3">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</output>
 			<blobs>
@@ -922,16 +922,16 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</input>
 			<output>
 				<port id="1">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</output>
 		</layer>
@@ -941,16 +941,16 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</input>
 			<output>
 				<port id="3">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</output>
 			<blobs>
@@ -964,16 +964,16 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</input>
 			<output>
 				<port id="1">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</output>
 		</layer>
@@ -983,16 +983,16 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</input>
 			<output>
 				<port id="3">
 					<dim>1</dim>
 					<dim>12</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</output>
 			<blobs>
@@ -1006,15 +1006,15 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>12</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</input>
 			<output>
 				<port id="1">
 					<dim>1</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 					<dim>12</dim>
 				</port>
 			</output>
@@ -1024,15 +1024,15 @@
 			<input>
 				<port id="0">
 					<dim>1</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 					<dim>12</dim>
 				</port>
 			</input>
 			<output>
 				<port id="1">
 					<dim>1</dim>
-					<dim>4332</dim>
+					<dim>3600</dim>
 				</port>
 			</output>
 		</layer>
@@ -1042,15 +1042,15 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</input>
 			<output>
 				<port id="3">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>10</dim>
+					<dim>8</dim>
 					<dim>10</dim>
 				</port>
 			</output>
@@ -1065,7 +1065,7 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>10</dim>
+					<dim>8</dim>
 					<dim>10</dim>
 				</port>
 			</input>
@@ -1073,7 +1073,7 @@
 				<port id="1">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>10</dim>
+					<dim>8</dim>
 					<dim>10</dim>
 				</port>
 			</output>
@@ -1084,7 +1084,7 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>10</dim>
+					<dim>8</dim>
 					<dim>10</dim>
 				</port>
 			</input>
@@ -1092,7 +1092,7 @@
 				<port id="3">
 					<dim>1</dim>
 					<dim>1024</dim>
-					<dim>10</dim>
+					<dim>8</dim>
 					<dim>10</dim>
 				</port>
 			</output>
@@ -1107,7 +1107,7 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>1024</dim>
-					<dim>10</dim>
+					<dim>8</dim>
 					<dim>10</dim>
 				</port>
 			</input>
@@ -1115,7 +1115,7 @@
 				<port id="1">
 					<dim>1</dim>
 					<dim>1024</dim>
-					<dim>10</dim>
+					<dim>8</dim>
 					<dim>10</dim>
 				</port>
 			</output>
@@ -1126,7 +1126,7 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>1024</dim>
-					<dim>10</dim>
+					<dim>8</dim>
 					<dim>10</dim>
 				</port>
 			</input>
@@ -1134,7 +1134,7 @@
 				<port id="3">
 					<dim>1</dim>
 					<dim>1024</dim>
-					<dim>10</dim>
+					<dim>8</dim>
 					<dim>10</dim>
 				</port>
 			</output>
@@ -1149,7 +1149,7 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>1024</dim>
-					<dim>10</dim>
+					<dim>8</dim>
 					<dim>10</dim>
 				</port>
 			</input>
@@ -1157,7 +1157,7 @@
 				<port id="1">
 					<dim>1</dim>
 					<dim>1024</dim>
-					<dim>10</dim>
+					<dim>8</dim>
 					<dim>10</dim>
 				</port>
 			</output>
@@ -1168,7 +1168,7 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>1024</dim>
-					<dim>10</dim>
+					<dim>8</dim>
 					<dim>10</dim>
 				</port>
 			</input>
@@ -1176,7 +1176,7 @@
 				<port id="3">
 					<dim>1</dim>
 					<dim>1024</dim>
-					<dim>10</dim>
+					<dim>8</dim>
 					<dim>10</dim>
 				</port>
 			</output>
@@ -1191,7 +1191,7 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>1024</dim>
-					<dim>10</dim>
+					<dim>8</dim>
 					<dim>10</dim>
 				</port>
 			</input>
@@ -1199,7 +1199,7 @@
 				<port id="1">
 					<dim>1</dim>
 					<dim>1024</dim>
-					<dim>10</dim>
+					<dim>8</dim>
 					<dim>10</dim>
 				</port>
 			</output>
@@ -1210,7 +1210,7 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>1024</dim>
-					<dim>10</dim>
+					<dim>8</dim>
 					<dim>10</dim>
 				</port>
 			</input>
@@ -1218,7 +1218,7 @@
 				<port id="3">
 					<dim>1</dim>
 					<dim>24</dim>
-					<dim>10</dim>
+					<dim>8</dim>
 					<dim>10</dim>
 				</port>
 			</output>
@@ -1233,14 +1233,14 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>24</dim>
-					<dim>10</dim>
+					<dim>8</dim>
 					<dim>10</dim>
 				</port>
 			</input>
 			<output>
 				<port id="1">
 					<dim>1</dim>
-					<dim>10</dim>
+					<dim>8</dim>
 					<dim>10</dim>
 					<dim>24</dim>
 				</port>
@@ -1251,7 +1251,7 @@
 			<input>
 				<port id="0">
 					<dim>1</dim>
-					<dim>10</dim>
+					<dim>8</dim>
 					<dim>10</dim>
 					<dim>24</dim>
 				</port>
@@ -1259,7 +1259,7 @@
 			<output>
 				<port id="1">
 					<dim>1</dim>
-					<dim>2400</dim>
+					<dim>1920</dim>
 				</port>
 			</output>
 		</layer>
@@ -1269,7 +1269,7 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>1024</dim>
-					<dim>10</dim>
+					<dim>8</dim>
 					<dim>10</dim>
 				</port>
 			</input>
@@ -1277,7 +1277,7 @@
 				<port id="3">
 					<dim>1</dim>
 					<dim>256</dim>
-					<dim>10</dim>
+					<dim>8</dim>
 					<dim>10</dim>
 				</port>
 			</output>
@@ -1292,7 +1292,7 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>256</dim>
-					<dim>10</dim>
+					<dim>8</dim>
 					<dim>10</dim>
 				</port>
 			</input>
@@ -1300,7 +1300,7 @@
 				<port id="1">
 					<dim>1</dim>
 					<dim>256</dim>
-					<dim>10</dim>
+					<dim>8</dim>
 					<dim>10</dim>
 				</port>
 			</output>
@@ -1311,7 +1311,7 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>256</dim>
-					<dim>10</dim>
+					<dim>8</dim>
 					<dim>10</dim>
 				</port>
 			</input>
@@ -1319,7 +1319,7 @@
 				<port id="3">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>5</dim>
+					<dim>4</dim>
 					<dim>5</dim>
 				</port>
 			</output>
@@ -1334,7 +1334,7 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>5</dim>
+					<dim>4</dim>
 					<dim>5</dim>
 				</port>
 			</input>
@@ -1342,7 +1342,7 @@
 				<port id="1">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>5</dim>
+					<dim>4</dim>
 					<dim>5</dim>
 				</port>
 			</output>
@@ -1353,7 +1353,7 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>5</dim>
+					<dim>4</dim>
 					<dim>5</dim>
 				</port>
 			</input>
@@ -1361,7 +1361,7 @@
 				<port id="3">
 					<dim>1</dim>
 					<dim>24</dim>
-					<dim>5</dim>
+					<dim>4</dim>
 					<dim>5</dim>
 				</port>
 			</output>
@@ -1376,14 +1376,14 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>24</dim>
-					<dim>5</dim>
+					<dim>4</dim>
 					<dim>5</dim>
 				</port>
 			</input>
 			<output>
 				<port id="1">
 					<dim>1</dim>
-					<dim>5</dim>
+					<dim>4</dim>
 					<dim>5</dim>
 					<dim>24</dim>
 				</port>
@@ -1394,7 +1394,7 @@
 			<input>
 				<port id="0">
 					<dim>1</dim>
-					<dim>5</dim>
+					<dim>4</dim>
 					<dim>5</dim>
 					<dim>24</dim>
 				</port>
@@ -1402,7 +1402,7 @@
 			<output>
 				<port id="1">
 					<dim>1</dim>
-					<dim>600</dim>
+					<dim>480</dim>
 				</port>
 			</output>
 		</layer>
@@ -1412,7 +1412,7 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>5</dim>
+					<dim>4</dim>
 					<dim>5</dim>
 				</port>
 			</input>
@@ -1420,7 +1420,7 @@
 				<port id="3">
 					<dim>1</dim>
 					<dim>128</dim>
-					<dim>5</dim>
+					<dim>4</dim>
 					<dim>5</dim>
 				</port>
 			</output>
@@ -1435,7 +1435,7 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>128</dim>
-					<dim>5</dim>
+					<dim>4</dim>
 					<dim>5</dim>
 				</port>
 			</input>
@@ -1443,7 +1443,7 @@
 				<port id="1">
 					<dim>1</dim>
 					<dim>128</dim>
-					<dim>5</dim>
+					<dim>4</dim>
 					<dim>5</dim>
 				</port>
 			</output>
@@ -1454,7 +1454,7 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>128</dim>
-					<dim>5</dim>
+					<dim>4</dim>
 					<dim>5</dim>
 				</port>
 			</input>
@@ -1462,7 +1462,7 @@
 				<port id="3">
 					<dim>1</dim>
 					<dim>256</dim>
-					<dim>3</dim>
+					<dim>2</dim>
 					<dim>3</dim>
 				</port>
 			</output>
@@ -1477,7 +1477,7 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>256</dim>
-					<dim>3</dim>
+					<dim>2</dim>
 					<dim>3</dim>
 				</port>
 			</input>
@@ -1485,7 +1485,7 @@
 				<port id="1">
 					<dim>1</dim>
 					<dim>256</dim>
-					<dim>3</dim>
+					<dim>2</dim>
 					<dim>3</dim>
 				</port>
 			</output>
@@ -1496,7 +1496,7 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>256</dim>
-					<dim>3</dim>
+					<dim>2</dim>
 					<dim>3</dim>
 				</port>
 			</input>
@@ -1504,7 +1504,7 @@
 				<port id="3">
 					<dim>1</dim>
 					<dim>24</dim>
-					<dim>3</dim>
+					<dim>2</dim>
 					<dim>3</dim>
 				</port>
 			</output>
@@ -1519,14 +1519,14 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>24</dim>
-					<dim>3</dim>
+					<dim>2</dim>
 					<dim>3</dim>
 				</port>
 			</input>
 			<output>
 				<port id="1">
 					<dim>1</dim>
-					<dim>3</dim>
+					<dim>2</dim>
 					<dim>3</dim>
 					<dim>24</dim>
 				</port>
@@ -1537,7 +1537,7 @@
 			<input>
 				<port id="0">
 					<dim>1</dim>
-					<dim>3</dim>
+					<dim>2</dim>
 					<dim>3</dim>
 					<dim>24</dim>
 				</port>
@@ -1545,7 +1545,7 @@
 			<output>
 				<port id="1">
 					<dim>1</dim>
-					<dim>216</dim>
+					<dim>144</dim>
 				</port>
 			</output>
 		</layer>
@@ -1555,7 +1555,7 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>256</dim>
-					<dim>3</dim>
+					<dim>2</dim>
 					<dim>3</dim>
 				</port>
 			</input>
@@ -1563,7 +1563,7 @@
 				<port id="3">
 					<dim>1</dim>
 					<dim>128</dim>
-					<dim>3</dim>
+					<dim>2</dim>
 					<dim>3</dim>
 				</port>
 			</output>
@@ -1578,7 +1578,7 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>128</dim>
-					<dim>3</dim>
+					<dim>2</dim>
 					<dim>3</dim>
 				</port>
 			</input>
@@ -1586,7 +1586,7 @@
 				<port id="1">
 					<dim>1</dim>
 					<dim>128</dim>
-					<dim>3</dim>
+					<dim>2</dim>
 					<dim>3</dim>
 				</port>
 			</output>
@@ -1597,7 +1597,7 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>128</dim>
-					<dim>3</dim>
+					<dim>2</dim>
 					<dim>3</dim>
 				</port>
 			</input>
@@ -1605,7 +1605,7 @@
 				<port id="3">
 					<dim>1</dim>
 					<dim>256</dim>
-					<dim>2</dim>
+					<dim>1</dim>
 					<dim>2</dim>
 				</port>
 			</output>
@@ -1620,7 +1620,7 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>256</dim>
-					<dim>2</dim>
+					<dim>1</dim>
 					<dim>2</dim>
 				</port>
 			</input>
@@ -1628,7 +1628,7 @@
 				<port id="1">
 					<dim>1</dim>
 					<dim>256</dim>
-					<dim>2</dim>
+					<dim>1</dim>
 					<dim>2</dim>
 				</port>
 			</output>
@@ -1639,7 +1639,7 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>256</dim>
-					<dim>2</dim>
+					<dim>1</dim>
 					<dim>2</dim>
 				</port>
 			</input>
@@ -1647,7 +1647,7 @@
 				<port id="3">
 					<dim>1</dim>
 					<dim>24</dim>
-					<dim>2</dim>
+					<dim>1</dim>
 					<dim>2</dim>
 				</port>
 			</output>
@@ -1662,14 +1662,14 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>24</dim>
-					<dim>2</dim>
+					<dim>1</dim>
 					<dim>2</dim>
 				</port>
 			</input>
 			<output>
 				<port id="1">
 					<dim>1</dim>
-					<dim>2</dim>
+					<dim>1</dim>
 					<dim>2</dim>
 					<dim>24</dim>
 				</port>
@@ -1680,7 +1680,7 @@
 			<input>
 				<port id="0">
 					<dim>1</dim>
-					<dim>2</dim>
+					<dim>1</dim>
 					<dim>2</dim>
 					<dim>24</dim>
 				</port>
@@ -1688,7 +1688,7 @@
 			<output>
 				<port id="1">
 					<dim>1</dim>
-					<dim>96</dim>
+					<dim>48</dim>
 				</port>
 			</output>
 		</layer>
@@ -1698,7 +1698,7 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>256</dim>
-					<dim>2</dim>
+					<dim>1</dim>
 					<dim>2</dim>
 				</port>
 			</input>
@@ -1706,7 +1706,7 @@
 				<port id="3">
 					<dim>1</dim>
 					<dim>64</dim>
-					<dim>2</dim>
+					<dim>1</dim>
 					<dim>2</dim>
 				</port>
 			</output>
@@ -1721,7 +1721,7 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>64</dim>
-					<dim>2</dim>
+					<dim>1</dim>
 					<dim>2</dim>
 				</port>
 			</input>
@@ -1729,7 +1729,7 @@
 				<port id="1">
 					<dim>1</dim>
 					<dim>64</dim>
-					<dim>2</dim>
+					<dim>1</dim>
 					<dim>2</dim>
 				</port>
 			</output>
@@ -1740,7 +1740,7 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>64</dim>
-					<dim>2</dim>
+					<dim>1</dim>
 					<dim>2</dim>
 				</port>
 			</input>
@@ -1840,23 +1840,23 @@
 			<input>
 				<port id="0">
 					<dim>1</dim>
-					<dim>4332</dim>
+					<dim>3600</dim>
 				</port>
 				<port id="1">
 					<dim>1</dim>
-					<dim>2400</dim>
+					<dim>1920</dim>
 				</port>
 				<port id="2">
 					<dim>1</dim>
-					<dim>600</dim>
+					<dim>480</dim>
 				</port>
 				<port id="3">
 					<dim>1</dim>
-					<dim>216</dim>
+					<dim>144</dim>
 				</port>
 				<port id="4">
 					<dim>1</dim>
-					<dim>96</dim>
+					<dim>48</dim>
 				</port>
 				<port id="5">
 					<dim>1</dim>
@@ -1866,132 +1866,132 @@
 			<output>
 				<port id="6">
 					<dim>1</dim>
-					<dim>7668</dim>
+					<dim>6216</dim>
 				</port>
 			</output>
 		</layer>
 		<layer id="90" name="conv11_mbox_priorbox" precision="FP16" type="PriorBox">
-			<data aspect_ratio="2.0" clip="0" flip="1" max_size="" min_size="15.0" offset="0.5" variance="0.10000000149011612,0.10000000149011612,0.20000000298023224,0.20000000298023224"/>
+			<data aspect_ratio="2.0" clip="0" flip="1" max_size="" min_size="6.0" offset="0.5" variance="0.10000000149011612,0.10000000149011612,0.20000000298023224,0.20000000298023224"/>
 			<input>
 				<port id="0">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 				<port id="1">
 					<dim>1</dim>
 					<dim>3</dim>
-					<dim>300</dim>
-					<dim>300</dim>
+					<dim>240</dim>
+					<dim>320</dim>
 				</port>
 			</input>
 			<output>
 				<port id="2">
 					<dim>1</dim>
 					<dim>2</dim>
-					<dim>4332</dim>
+					<dim>3600</dim>
 				</port>
 			</output>
 		</layer>
 		<layer id="91" name="conv13_mbox_priorbox" precision="FP16" type="PriorBox">
-			<data aspect_ratio="2.0,3.0" clip="0" flip="1" max_size="93.0" min_size="54.0" offset="0.5" variance="0.10000000149011612,0.10000000149011612,0.20000000298023224,0.20000000298023224"/>
+			<data aspect_ratio="2.0,3.0" clip="0" flip="1" max_size="63.599998474121094" min_size="34.79999923706055" offset="0.5" variance="0.10000000149011612,0.10000000149011612,0.20000000298023224,0.20000000298023224"/>
 			<input>
 				<port id="0">
 					<dim>1</dim>
 					<dim>1024</dim>
-					<dim>10</dim>
+					<dim>8</dim>
 					<dim>10</dim>
 				</port>
 				<port id="1">
 					<dim>1</dim>
 					<dim>3</dim>
-					<dim>300</dim>
-					<dim>300</dim>
+					<dim>240</dim>
+					<dim>320</dim>
 				</port>
 			</input>
 			<output>
 				<port id="2">
 					<dim>1</dim>
 					<dim>2</dim>
-					<dim>2400</dim>
+					<dim>1920</dim>
 				</port>
 			</output>
 		</layer>
 		<layer id="92" name="conv14_2_mbox_priorbox" precision="FP16" type="PriorBox">
-			<data aspect_ratio="2.0,3.0" clip="0" flip="1" max_size="132.0" min_size="93.0" offset="0.5" variance="0.10000000149011612,0.10000000149011612,0.20000000298023224,0.20000000298023224"/>
+			<data aspect_ratio="2.0,3.0" clip="0" flip="1" max_size="92.4000015258789" min_size="63.599998474121094" offset="0.5" variance="0.10000000149011612,0.10000000149011612,0.20000000298023224,0.20000000298023224"/>
 			<input>
 				<port id="0">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>5</dim>
+					<dim>4</dim>
 					<dim>5</dim>
 				</port>
 				<port id="1">
 					<dim>1</dim>
 					<dim>3</dim>
-					<dim>300</dim>
-					<dim>300</dim>
+					<dim>240</dim>
+					<dim>320</dim>
 				</port>
 			</input>
 			<output>
 				<port id="2">
 					<dim>1</dim>
 					<dim>2</dim>
-					<dim>600</dim>
+					<dim>480</dim>
 				</port>
 			</output>
 		</layer>
 		<layer id="93" name="conv15_2_mbox_priorbox" precision="FP16" type="PriorBox">
-			<data aspect_ratio="2.0,3.0" clip="0" flip="1" max_size="171.0" min_size="132.0" offset="0.5" variance="0.10000000149011612,0.10000000149011612,0.20000000298023224,0.20000000298023224"/>
+			<data aspect_ratio="2.0,3.0" clip="0" flip="1" max_size="121.19999694824219" min_size="92.4000015258789" offset="0.5" variance="0.10000000149011612,0.10000000149011612,0.20000000298023224,0.20000000298023224"/>
 			<input>
 				<port id="0">
 					<dim>1</dim>
 					<dim>256</dim>
-					<dim>3</dim>
+					<dim>2</dim>
 					<dim>3</dim>
 				</port>
 				<port id="1">
 					<dim>1</dim>
 					<dim>3</dim>
-					<dim>300</dim>
-					<dim>300</dim>
+					<dim>240</dim>
+					<dim>320</dim>
 				</port>
 			</input>
 			<output>
 				<port id="2">
 					<dim>1</dim>
 					<dim>2</dim>
-					<dim>216</dim>
+					<dim>144</dim>
 				</port>
 			</output>
 		</layer>
 		<layer id="94" name="conv16_2_mbox_priorbox" precision="FP16" type="PriorBox">
-			<data aspect_ratio="2.0,3.0" clip="0" flip="1" max_size="210.0" min_size="171.0" offset="0.5" variance="0.10000000149011612,0.10000000149011612,0.20000000298023224,0.20000000298023224"/>
+			<data aspect_ratio="2.0,3.0" clip="0" flip="1" max_size="150.0" min_size="121.19999694824219" offset="0.5" variance="0.10000000149011612,0.10000000149011612,0.20000000298023224,0.20000000298023224"/>
 			<input>
 				<port id="0">
 					<dim>1</dim>
 					<dim>256</dim>
-					<dim>2</dim>
+					<dim>1</dim>
 					<dim>2</dim>
 				</port>
 				<port id="1">
 					<dim>1</dim>
 					<dim>3</dim>
-					<dim>300</dim>
-					<dim>300</dim>
+					<dim>240</dim>
+					<dim>320</dim>
 				</port>
 			</input>
 			<output>
 				<port id="2">
 					<dim>1</dim>
 					<dim>2</dim>
-					<dim>96</dim>
+					<dim>48</dim>
 				</port>
 			</output>
 		</layer>
 		<layer id="95" name="conv17_2_mbox_priorbox" precision="FP16" type="PriorBox">
-			<data aspect_ratio="2.0,3.0" clip="0" flip="1" max_size="300.0" min_size="210.0" offset="0.5" variance="0.10000000149011612,0.10000000149011612,0.20000000298023224,0.20000000298023224"/>
+			<data aspect_ratio="2.0,3.0" clip="0" flip="1" max_size="300.0" min_size="150.0" offset="0.5" variance="0.10000000149011612,0.10000000149011612,0.20000000298023224,0.20000000298023224"/>
 			<input>
 				<port id="0">
 					<dim>1</dim>
@@ -2002,8 +2002,8 @@
 				<port id="1">
 					<dim>1</dim>
 					<dim>3</dim>
-					<dim>300</dim>
-					<dim>300</dim>
+					<dim>240</dim>
+					<dim>320</dim>
 				</port>
 			</input>
 			<output>
@@ -2020,27 +2020,27 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>2</dim>
-					<dim>4332</dim>
+					<dim>3600</dim>
 				</port>
 				<port id="1">
 					<dim>1</dim>
 					<dim>2</dim>
-					<dim>2400</dim>
+					<dim>1920</dim>
 				</port>
 				<port id="2">
 					<dim>1</dim>
 					<dim>2</dim>
-					<dim>600</dim>
+					<dim>480</dim>
 				</port>
 				<port id="3">
 					<dim>1</dim>
 					<dim>2</dim>
-					<dim>216</dim>
+					<dim>144</dim>
 				</port>
 				<port id="4">
 					<dim>1</dim>
 					<dim>2</dim>
-					<dim>96</dim>
+					<dim>48</dim>
 				</port>
 				<port id="5">
 					<dim>1</dim>
@@ -2052,7 +2052,7 @@
 				<port id="6">
 					<dim>1</dim>
 					<dim>2</dim>
-					<dim>7668</dim>
+					<dim>6216</dim>
 				</port>
 			</output>
 		</layer>
@@ -2062,16 +2062,16 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</input>
 			<output>
 				<port id="3">
 					<dim>1</dim>
 					<dim>12</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</output>
 			<blobs>
@@ -2085,15 +2085,15 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>12</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 				</port>
 			</input>
 			<output>
 				<port id="1">
 					<dim>1</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 					<dim>12</dim>
 				</port>
 			</output>
@@ -2103,15 +2103,15 @@
 			<input>
 				<port id="0">
 					<dim>1</dim>
-					<dim>19</dim>
-					<dim>19</dim>
+					<dim>15</dim>
+					<dim>20</dim>
 					<dim>12</dim>
 				</port>
 			</input>
 			<output>
 				<port id="1">
 					<dim>1</dim>
-					<dim>4332</dim>
+					<dim>3600</dim>
 				</port>
 			</output>
 		</layer>
@@ -2121,7 +2121,7 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>1024</dim>
-					<dim>10</dim>
+					<dim>8</dim>
 					<dim>10</dim>
 				</port>
 			</input>
@@ -2129,7 +2129,7 @@
 				<port id="3">
 					<dim>1</dim>
 					<dim>24</dim>
-					<dim>10</dim>
+					<dim>8</dim>
 					<dim>10</dim>
 				</port>
 			</output>
@@ -2144,14 +2144,14 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>24</dim>
-					<dim>10</dim>
+					<dim>8</dim>
 					<dim>10</dim>
 				</port>
 			</input>
 			<output>
 				<port id="1">
 					<dim>1</dim>
-					<dim>10</dim>
+					<dim>8</dim>
 					<dim>10</dim>
 					<dim>24</dim>
 				</port>
@@ -2162,7 +2162,7 @@
 			<input>
 				<port id="0">
 					<dim>1</dim>
-					<dim>10</dim>
+					<dim>8</dim>
 					<dim>10</dim>
 					<dim>24</dim>
 				</port>
@@ -2170,7 +2170,7 @@
 			<output>
 				<port id="1">
 					<dim>1</dim>
-					<dim>2400</dim>
+					<dim>1920</dim>
 				</port>
 			</output>
 		</layer>
@@ -2180,7 +2180,7 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>512</dim>
-					<dim>5</dim>
+					<dim>4</dim>
 					<dim>5</dim>
 				</port>
 			</input>
@@ -2188,7 +2188,7 @@
 				<port id="3">
 					<dim>1</dim>
 					<dim>24</dim>
-					<dim>5</dim>
+					<dim>4</dim>
 					<dim>5</dim>
 				</port>
 			</output>
@@ -2203,14 +2203,14 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>24</dim>
-					<dim>5</dim>
+					<dim>4</dim>
 					<dim>5</dim>
 				</port>
 			</input>
 			<output>
 				<port id="1">
 					<dim>1</dim>
-					<dim>5</dim>
+					<dim>4</dim>
 					<dim>5</dim>
 					<dim>24</dim>
 				</port>
@@ -2221,7 +2221,7 @@
 			<input>
 				<port id="0">
 					<dim>1</dim>
-					<dim>5</dim>
+					<dim>4</dim>
 					<dim>5</dim>
 					<dim>24</dim>
 				</port>
@@ -2229,7 +2229,7 @@
 			<output>
 				<port id="1">
 					<dim>1</dim>
-					<dim>600</dim>
+					<dim>480</dim>
 				</port>
 			</output>
 		</layer>
@@ -2239,7 +2239,7 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>256</dim>
-					<dim>3</dim>
+					<dim>2</dim>
 					<dim>3</dim>
 				</port>
 			</input>
@@ -2247,7 +2247,7 @@
 				<port id="3">
 					<dim>1</dim>
 					<dim>24</dim>
-					<dim>3</dim>
+					<dim>2</dim>
 					<dim>3</dim>
 				</port>
 			</output>
@@ -2262,14 +2262,14 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>24</dim>
-					<dim>3</dim>
+					<dim>2</dim>
 					<dim>3</dim>
 				</port>
 			</input>
 			<output>
 				<port id="1">
 					<dim>1</dim>
-					<dim>3</dim>
+					<dim>2</dim>
 					<dim>3</dim>
 					<dim>24</dim>
 				</port>
@@ -2280,7 +2280,7 @@
 			<input>
 				<port id="0">
 					<dim>1</dim>
-					<dim>3</dim>
+					<dim>2</dim>
 					<dim>3</dim>
 					<dim>24</dim>
 				</port>
@@ -2288,7 +2288,7 @@
 			<output>
 				<port id="1">
 					<dim>1</dim>
-					<dim>216</dim>
+					<dim>144</dim>
 				</port>
 			</output>
 		</layer>
@@ -2298,7 +2298,7 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>256</dim>
-					<dim>2</dim>
+					<dim>1</dim>
 					<dim>2</dim>
 				</port>
 			</input>
@@ -2306,7 +2306,7 @@
 				<port id="3">
 					<dim>1</dim>
 					<dim>24</dim>
-					<dim>2</dim>
+					<dim>1</dim>
 					<dim>2</dim>
 				</port>
 			</output>
@@ -2321,14 +2321,14 @@
 				<port id="0">
 					<dim>1</dim>
 					<dim>24</dim>
-					<dim>2</dim>
+					<dim>1</dim>
 					<dim>2</dim>
 				</port>
 			</input>
 			<output>
 				<port id="1">
 					<dim>1</dim>
-					<dim>2</dim>
+					<dim>1</dim>
 					<dim>2</dim>
 					<dim>24</dim>
 				</port>
@@ -2339,7 +2339,7 @@
 			<input>
 				<port id="0">
 					<dim>1</dim>
-					<dim>2</dim>
+					<dim>1</dim>
 					<dim>2</dim>
 					<dim>24</dim>
 				</port>
@@ -2347,7 +2347,7 @@
 			<output>
 				<port id="1">
 					<dim>1</dim>
-					<dim>96</dim>
+					<dim>48</dim>
 				</port>
 			</output>
 		</layer>
@@ -2415,23 +2415,23 @@
 			<input>
 				<port id="0">
 					<dim>1</dim>
-					<dim>4332</dim>
+					<dim>3600</dim>
 				</port>
 				<port id="1">
 					<dim>1</dim>
-					<dim>2400</dim>
+					<dim>1920</dim>
 				</port>
 				<port id="2">
 					<dim>1</dim>
-					<dim>600</dim>
+					<dim>480</dim>
 				</port>
 				<port id="3">
 					<dim>1</dim>
-					<dim>216</dim>
+					<dim>144</dim>
 				</port>
 				<port id="4">
 					<dim>1</dim>
-					<dim>96</dim>
+					<dim>48</dim>
 				</port>
 				<port id="5">
 					<dim>1</dim>
@@ -2441,7 +2441,7 @@
 			<output>
 				<port id="6">
 					<dim>1</dim>
-					<dim>7668</dim>
+					<dim>6216</dim>
 				</port>
 			</output>
 		</layer>
@@ -2450,13 +2450,13 @@
 			<input>
 				<port id="0">
 					<dim>1</dim>
-					<dim>7668</dim>
+					<dim>6216</dim>
 				</port>
 			</input>
 			<output>
 				<port id="1">
 					<dim>1</dim>
-					<dim>1917</dim>
+					<dim>1554</dim>
 					<dim>4</dim>
 				</port>
 			</output>
@@ -2466,14 +2466,14 @@
 			<input>
 				<port id="0">
 					<dim>1</dim>
-					<dim>1917</dim>
+					<dim>1554</dim>
 					<dim>4</dim>
 				</port>
 			</input>
 			<output>
 				<port id="1">
 					<dim>1</dim>
-					<dim>1917</dim>
+					<dim>1554</dim>
 					<dim>4</dim>
 				</port>
 			</output>
@@ -2483,32 +2483,32 @@
 			<input>
 				<port id="0">
 					<dim>1</dim>
-					<dim>1917</dim>
+					<dim>1554</dim>
 					<dim>4</dim>
 				</port>
 			</input>
 			<output>
 				<port id="1">
 					<dim>1</dim>
-					<dim>7668</dim>
+					<dim>6216</dim>
 				</port>
 			</output>
 		</layer>
 		<layer id="119" name="detection_out" precision="FP16" type="DetectionOutput">
-			<data background_label_id="0" code_type="caffe.PriorBoxParameter.CENTER_SIZE" confidence_threshold="0.25" eta="1.0" input_height="1" input_width="1" keep_top_k="10" nms_threshold="0.44999998807907104" normalized="1" num_classes="4" share_location="1" top_k="100" variance_encoded_in_target="0" visualize="False"/>
+			<data background_label_id="0" code_type="caffe.PriorBoxParameter.CENTER_SIZE" confidence_threshold="0.25" eta="1.0" input_height="1" input_width="1" keep_top_k="10" nms_threshold="0.44999998807907104" normalized="1" num_classes="4" share_location="1" top_k="400" variance_encoded_in_target="0" visualize="False"/>
 			<input>
 				<port id="0">
 					<dim>1</dim>
-					<dim>7668</dim>
+					<dim>6216</dim>
 				</port>
 				<port id="1">
 					<dim>1</dim>
-					<dim>7668</dim>
+					<dim>6216</dim>
 				</port>
 				<port id="2">
 					<dim>1</dim>
 					<dim>2</dim>
-					<dim>7668</dim>
+					<dim>6216</dim>
 				</port>
 			</input>
 			<output>
